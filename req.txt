@@ -1,0 +1,2 @@
+pip install libigl
+pip install opencv-python
